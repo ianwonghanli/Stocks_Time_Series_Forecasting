@@ -25,7 +25,7 @@ We utilised different machine learning models to investigate the single best mod
     Plot of predicted stock price (red) against actual stock price for Jan-June 2020 by Google TFT model, for one stock price day later 
 </p>
 
-Overall, Google TFT emerged as the most accurate model for stock price prediction, yielding the lowerst average RMSE score of 8.96 for prediction during the COVID-19 pandemic from January to June 2020. 
+Overall, Google TFT emerged as the most accurate model for stock price prediction, yielding the lowerst average RMSE score of 8.92 for prediction during the COVID-19 pandemic from January to June 2020. 
 
 Our team recommends futureu research into stock price prediction to investigate different stock-related data with the Google TFT deep learning model. 
 
